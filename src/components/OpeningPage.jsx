@@ -223,7 +223,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           className="relative z-20 mb-3 md:mb-5"
         >
           <div className="absolute inset-x-0 inset-y-1 bg-pink-500/15 blur-2xl rounded-full"></div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold drop-shadow-[0_2px_15px_rgba(236,72,153,0.5)] leading-tight tracking-tight relative z-30">
+          <h1 className="text-3xl sm:text-3xl md:text-3xl lg:text-5xl font-extrabold drop-shadow-[0_2px_15px_rgba(236,72,153,0.5)] leading-tight tracking-tight relative z-30">
             <span className="text-transparent bg-clip-text bg-gradient-to-br from-white via-pink-200 to-purple-200">
               Sorry Meri Jaan <br /> Hadia
             </span>
